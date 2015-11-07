@@ -4,6 +4,8 @@ namespace ProgramAes
 {
     internal class Program
     {
+
+        //Aes Encrypter/Decrypter
         private static void Main(string[] args)
         {
             Console.WriteLine("Please enter path to key store");
